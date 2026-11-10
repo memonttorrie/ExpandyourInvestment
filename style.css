@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;600;700;800&display=swap");
+:root { --coral: #ff385c; --ink: #26262b; --muted: #747984; --line: #e8e9ec; --background: #fafafa; }
+* { box-sizing: border-box; }
+body { margin: 0; color: var(--ink); background: var(--background); font-family: "DM Sans", sans-serif; }
+button, input, select { font: inherit; }
+button { cursor: pointer; }
+.app { max-width: 950px; margin: 32px auto; padding: 0 16px; }
+.header { background: #fff; border: 1px solid var(--line); border-bottom: 0; border-radius: 20px 20px 0 0; padding: 22px 28px; }
+.brand { font: 800 24px Manrope, sans-serif; letter-spacing: -1px; }
+.brand span { color: var(--coral); }
+.header p { color: var(--muted); font-size: 13px; margin: 4px 0 0; }
+.chat { height: min(790px, calc(100vh - 150px)); min-height: 480px; background: #fff; border: 1px solid var(--line); border-radius: 0 0 20px 20px; display: flex; flex-direction: column; overflow: hidden; }
+.messages { flex: 1; overflow-y: auto; display: flex; flex-direction: column; align-items: flex-start; gap: 14px; padding: 26px; }
+.message { max-width: 83%; padding: 14px 17px; line-height: 1.65; border-radius: 16px; font-size: 14px; white-space: pre-wrap; overflow-wrap: anywhere; }
+.message.bot { background: #f3f4f6; border-top-left-radius: 4px; }
+.message.user { align-self: flex-end; background: var(--coral); color: #fff; border-top-right-radius: 4px; }
+.interactive { width: 100%; flex-shrink: 0; align-self: stretch; padding: 18px; border: 1px solid var(--line); border-radius: 14px; background: #fff; overflow: visible; max-height: none; }
+.interactive[hidden], .suggestions[hidden] { display: none; }
+.panel-title { font-size: 13px; font-weight: 700; margin: 0 0 10px; }
+.panel-note { color: var(--muted); font-size: 12px; line-height: 1.5; }
+.option-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+.option { border: 1px solid var(--line); border-radius: 11px; padding: 12px; background: white; text-align: left; }
+.option:hover, .suggestion:hover { border-color: var(--coral); background: #fff8fa; }
+.option strong { display: block; font-size: 13px; margin-bottom: 4px; }
+.option small { display: block; color: var(--muted); font-size: 11px; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.actions button, .actions a { background: #fff; color: var(--ink); border: 1px solid var(--line); border-radius: 9px; padding: 9px 12px; text-decoration: none; font-size: 12px; }
+.actions .primary, .primary { background: var(--coral); color: white; border-color: var(--coral); }
+.inline-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; }
+.inline-form label { display: flex; flex-direction: column; gap: 5px; font-size: 12px; font-weight: 700; }
+.inline-form input, .inline-form select { width: 100%; min-width: 0; border: 1px solid var(--line); border-radius: 8px; padding: 10px; }
+.inline-form button { grid-column: 1 / -1; border: 0; border-radius: 9px; padding: 11px; }
+.composer { position: relative; border-top: 1px solid var(--line); padding: 14px 20px 10px; }
+.suggestions { position: absolute; bottom: calc(100% - 2px); left: 20px; right: 20px; max-height: 230px; overflow-y: auto; background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 -8px 28px #0000000d; padding: 6px; }
+.suggestion { width: 100%; display: block; background: #fff; border: 1px solid transparent; border-radius: 8px; text-align: left; padding: 11px; font-size: 13px; }
+.suggestion small { color: var(--muted); display: block; margin-top: 3px; }
+#chatForm { display: flex; gap: 10px; }
+#message { flex: 1; min-width: 0; border: 1px solid var(--line); border-radius: 11px; padding: 13px; outline: none; }
+#message:focus { border-color: var(--coral); }
+#chatForm button { border: 0; background: var(--coral); color: #fff; border-radius: 11px; padding: 0 24px; font-weight: 700; }
+.disclaimer { color: var(--muted); font-size: 10px; text-align: center; margin: 10px 0 0; }
+@media (max-width: 620px) {
+  .app { margin: 0; padding: 0; }
+  .header { border-radius: 0; padding: 18px; }
+  .brand { font-size: 19px; }
+  .chat { height: calc(100dvh - 84px); min-height: 420px; border-radius: 0; }
+  .messages { padding: 15px; }
+  .interactive { padding: 12px 15px; }
+  .message { max-width: 94%; }
+  .option-list, .inline-form { grid-template-columns: 1fr; }
+}
+
+/* Unified conversation: option cards and forms scroll with messages, not in a split pane. */
+.chat { height: clamp(550px, calc(100dvh - 150px), 1100px); }
+.messages { min-height: 0; overflow-y: auto; overscroll-behavior: contain; }
+.interactive { box-shadow: 0 6px 22px rgba(0,0,0,.035); }
+.option-list { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.option { min-height: 84px; }
+.inline-form { grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+.composer { flex-shrink: 0; background: #fff; }
+.suggestions { z-index: 20; max-height: min(340px, 55dvh); }
+@media (max-width: 620px) {
+  .chat { height: calc(100dvh - 85px); min-height: 360px; }
+  .messages { padding: 15px; }
+  .interactive { padding: 14px; }
+  .option-list, .inline-form { grid-template-columns: 1fr; }
+}

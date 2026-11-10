@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ExpandyourInvestment | Property Chatbot</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="header"><div class="brand">Expand<span>your</span>Investment</div><p>Real Estate Property Assistant</p></header>
+    <section class="chat" aria-label="Property chatbot">
+      <div class="messages" id="messages" aria-live="polite">
+        <div class="message bot">Welcome to ExpandyourInvestment. Ask me about our properties, prices, locations, financing, or viewing schedules. You can chat in English or Taglish.</div>
+        <div id="interactive" class="interactive" hidden></div>
+      </div>
+      <div class="composer">
+        <div class="suggestions" id="suggestions" hidden></div>
+        <form id="chatForm"><input id="message" autocomplete="off" maxlength="2000" placeholder="Ask about a property or type its name..." aria-label="Message"><button type="submit">Send</button></form>
+        <p class="disclaimer">Prices and availability are not live. Viewing requests require agent confirmation.</p>
+      </div>
+    </section>
+  </main>
+  <script src="/script.js"></script>
+</body>
+</html>

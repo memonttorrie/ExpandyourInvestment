@@ -1,0 +1,1294 @@
+[
+  {
+    "name": "University Tower 5",
+    "location": "España, Manila",
+    "type": "condominium",
+    "units": [
+      {
+        "size": "22 sqm",
+        "tcp_php": 5940000
+      },
+      {
+        "size": "22.5 sqm",
+        "tcp_php": 6075000
+      },
+      {
+        "size": "25 sqm",
+        "tcp_php": 6750000
+      },
+      {
+        "size": "27 sqm",
+        "tcp_php": 7290000
+      },
+      {
+        "size": "36 sqm 1BR",
+        "tcp_php": 9720000
+      },
+      {
+        "size": "41.5 sqm 2BR",
+        "tcp_php": 11205000
+      }
+    ],
+    "reservation_php": 25000,
+    "pricing_as_of": "2025-03-15",
+    "source": "Property Prices(1).pdf",
+    "notes": "Historical listing only; status and current prices must be confirmed with the property seller.",
+    "id": "ut5",
+    "availability": "Unverified — ask agent",
+    "viewing": "Request only — agent confirmation required",
+    "contact": {
+      "name": "Property sales agent (listed in historical UT5 document)",
+      "phone": "099-2869-6211"
+    },
+    "payment_terms": [
+      "Spot cash (historical ₱200,000 discount; subject to verification)",
+      "Deferred 20–80 (historical ₱100,000 discount; subject to verification)",
+      "Bank financing 10–10–80 (historical; bank approval required)"
+    ],
+    "map_query": "España, Manila Philippines University Tower 5"
+  },
+  {
+    "name": "Playa Calatagan",
+    "location": "Calatagan, Batangas",
+    "type": "vacant lot",
+    "units": [
+      {
+        "size": "261 sqm Residential lot",
+        "tcp_php": 5715900,
+        "unit_code": "LPC_OU-PLC_P2C2-B023-L030",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 261.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "261 sqm Residential lot",
+        "tcp_php": 5715900,
+        "unit_code": "LPC_OU-PLC_P2C2-B023-L038",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 261.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "271 sqm Residential lot",
+        "tcp_php": 6070400,
+        "unit_code": "LPC_OU-PLC_P4-B053-L022",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 271.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "299 sqm Residential lot",
+        "tcp_php": 6548100,
+        "unit_code": "LPC_OU-PLC_P2C2-B022B-L008",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 299.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "274 sqm Residential lot",
+        "tcp_php": 6850000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L038",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 274.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "304 sqm Residential lot",
+        "tcp_php": 6992000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L016",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 304.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "298 sqm Residential lot",
+        "tcp_php": 7032800,
+        "unit_code": "LPC_OU-PLC_P1-B005-L036",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 298.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "299 sqm Residential lot",
+        "tcp_php": 7056400,
+        "unit_code": "LPC_OU-PLC_P2C2-B024-L033",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 299.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "300 sqm Residential lot",
+        "tcp_php": 7080000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L031",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 300.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "300 sqm Residential lot",
+        "tcp_php": 7080000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L032",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 300.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "302 sqm Residential lot",
+        "tcp_php": 7127200,
+        "unit_code": "LPC_OU-PLC_P1-B005-L029",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 302.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "289 sqm Residential lot",
+        "tcp_php": 7225000,
+        "unit_code": "LPC_OU-PLC_P2C2-B024-L035",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 289.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "315 sqm Residential lot",
+        "tcp_php": 7245000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L019",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 315.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7280000,
+        "unit_code": "LPC_OU-PLC_P3-B041-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7280000,
+        "unit_code": "LPC_OU-PLC_P3-B041-L003",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7280000,
+        "unit_code": "LPC_OU-PLC_P3-B041-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7280000,
+        "unit_code": "LPC_OU-PLC_P3-B041-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "328 sqm Residential lot",
+        "tcp_php": 7347200,
+        "unit_code": "LPC_OU-PLC_P2C2-B021-L031",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 328.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L003",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L007",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L008",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L009",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L010",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L011",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L012",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L014",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L015",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "325 sqm Residential lot",
+        "tcp_php": 7475000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L019",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 325.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "334 sqm Residential lot",
+        "tcp_php": 7481600,
+        "unit_code": "LPC_OU-PLC_P2C2-B021-L028",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 334.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "300 sqm Residential lot",
+        "tcp_php": 7500000,
+        "unit_code": "LPC_OU-PLC_P3-B045-L021",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 300.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "300 sqm Residential lot",
+        "tcp_php": 7500000,
+        "unit_code": "LPC_OU-PLC_P3-B045-L022",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 300.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "338 sqm Residential lot",
+        "tcp_php": 7571200,
+        "unit_code": "LPC_OU-PLC_P2C2-B021-L029",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 338.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "359 sqm Residential lot",
+        "tcp_php": 7646700,
+        "unit_code": "LPC_OU-PLC_P2C2-B024-L046",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 359.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "307 sqm Residential lot",
+        "tcp_php": 7675000,
+        "unit_code": "LPC_OU-PLC_P4-B058-L017",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 307.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "335 sqm Residential lot",
+        "tcp_php": 7906000,
+        "unit_code": "LPC_OU-PLC_P3-B045-L025",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 335.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "355 sqm Residential lot",
+        "tcp_php": 7952000,
+        "unit_code": "LPC_OU-PLC_P2C2-B021-L032",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 355.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "348 sqm Residential lot",
+        "tcp_php": 8004000,
+        "unit_code": "LPC_OU-PLC_P1-B005-L022",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 348.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "313 sqm Residential lot",
+        "tcp_php": 8012800,
+        "unit_code": "LPC_OU-PLC_P4-B058-L023",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 313.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "358 sqm Residential lot",
+        "tcp_php": 8019200,
+        "unit_code": "LPC_OU-PLC_P2C2-B024-L045",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 358.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "350 sqm Residential lot",
+        "tcp_php": 8050000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 350.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "350 sqm Residential lot",
+        "tcp_php": 8050000,
+        "unit_code": "LPC_OU-PLC_P3-B041-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 350.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "351 sqm Residential lot",
+        "tcp_php": 8073000,
+        "unit_code": "LPC_OU-PLC_P3-B040-L016",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 351.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "335 sqm Residential lot",
+        "tcp_php": 8174000,
+        "unit_code": "LPC_OU-PLC_P1-B010-L036",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 335.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "333 sqm Residential lot",
+        "tcp_php": 8325000,
+        "unit_code": "LPC_OU-PLC_P4-B060-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 333.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "340 sqm Residential lot",
+        "tcp_php": 8500000,
+        "unit_code": "LPC_OU-PLC_P4-B058-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 340.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "358 sqm Residential lot",
+        "tcp_php": 8735200,
+        "unit_code": "LPC_OU-PLC_P3-B045-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 358.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "368 sqm Residential lot",
+        "tcp_php": 8979200,
+        "unit_code": "LPC_OU-PLC_P3-B042-L014",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 368.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "368 sqm Residential lot",
+        "tcp_php": 8979200,
+        "unit_code": "LPC_OU-PLC_P3-B042-L015",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 368.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "368 sqm Residential lot",
+        "tcp_php": 8979200,
+        "unit_code": "LPC_OU-PLC_P3-B042-L016",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 368.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "381 sqm Residential lot",
+        "tcp_php": 8991600,
+        "unit_code": "LPC_OU-PLC_P3-B045-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 381.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "372 sqm Residential lot",
+        "tcp_php": 9076800,
+        "unit_code": "LPC_OU-PLC_P3-B043-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 372.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "372 sqm Residential lot",
+        "tcp_php": 9076800,
+        "unit_code": "LPC_OU-PLC_P3-B043-L003",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 372.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "372 sqm Residential lot",
+        "tcp_php": 9076800,
+        "unit_code": "LPC_OU-PLC_P3-B043-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 372.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "372 sqm Residential lot",
+        "tcp_php": 9076800,
+        "unit_code": "LPC_OU-PLC_P3-B043-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 372.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "399 sqm Residential lot",
+        "tcp_php": 9097200,
+        "unit_code": "LPC_OU-PLC_P2C2-B021-L027",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 399.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "380 sqm Residential lot",
+        "tcp_php": 9272000,
+        "unit_code": "LPC_OU-PLC_P3-B042-L007",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 380.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "388 sqm Residential lot",
+        "tcp_php": 9467200,
+        "unit_code": "LPC_OU-PLC_P3-B042-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 388.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "400 sqm Residential lot",
+        "tcp_php": 10000000,
+        "unit_code": "LPC_OU-PLC_P3-B045-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 400.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "416 sqm Residential lot",
+        "tcp_php": 10400000,
+        "unit_code": "LPC_OU-PLC_P4-B059-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 416.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "479 sqm Residential lot",
+        "tcp_php": 11112800,
+        "unit_code": "LPC_OU-PLC_P1-B010-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 479.0,
+        "unit_type": "Residential lot"
+      },
+      {
+        "size": "450 sqm Residential lot",
+        "tcp_php": 12870000,
+        "unit_code": "LPC_OU-PLC_P2B-B017-L021",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 450.0,
+        "unit_type": "Residential lot"
+      }
+    ],
+    "notes": "Historical listing only; status and current prices must be confirmed with the property seller.",
+    "id": "playa",
+    "availability": "Unverified — ask agent",
+    "viewing": "Request only — agent confirmation required",
+    "contact": {
+      "name": "Request agent contact",
+      "phone": null
+    },
+    "payment_terms": [
+      "Contact agent for current payment terms"
+    ],
+    "map_query": "Calatagan, Batangas Philippines Playa Calatagan",
+    "pricing_as_of": "2025-01-01",
+    "source": "LPC-Prices.xlsx"
+  },
+  {
+    "name": "CaSoBe",
+    "location": "Calatagan, Batangas",
+    "type": "commercial",
+    "units": [
+      {
+        "size": "384 sqm Commercial-residential lot",
+        "tcp_php": 20160000,
+        "unit_code": "LPC_OU-CSB_CRL-B005-L008",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 384.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "385 sqm Commercial-residential lot",
+        "tcp_php": 20212500,
+        "unit_code": "LPC_OU-CSB_CRL-B005-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 385.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "386 sqm Commercial-residential lot",
+        "tcp_php": 22388000,
+        "unit_code": "LPC_OU-CSB_CRL-B005-L018",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 386.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "567 sqm Commercial-residential lot",
+        "tcp_php": 31014900,
+        "unit_code": "LPC_OU-CSB_CRL-B007-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 567.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "634 sqm Commercial-residential lot",
+        "tcp_php": 37596200,
+        "unit_code": "LPC_OU-CSB_CRL-B001-L003",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 634.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "637 sqm Commercial-residential lot",
+        "tcp_php": 37774100,
+        "unit_code": "LPC_OU-CSB_CRL-B001-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 637.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "651 sqm Commercial-residential lot",
+        "tcp_php": 38604300,
+        "unit_code": "LPC_OU-CSB_CRL-B001-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 651.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "680 sqm Commercial-residential lot",
+        "tcp_php": 40324000,
+        "unit_code": "LPC_OU-CSB_CRL-B001-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 680.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "697 sqm Commercial-residential lot",
+        "tcp_php": 42029100,
+        "unit_code": "LPC_OU-CSB_CRL-B001-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 697.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "710 sqm Commercial-residential lot",
+        "tcp_php": 42458000,
+        "unit_code": "LPC_OU-CSB_CRL-B007-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 710.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "747 sqm Commercial-residential lot",
+        "tcp_php": 44297100,
+        "unit_code": "LPC_OU-CSB_CRL-B002-L003",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 747.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "762 sqm Commercial-residential lot",
+        "tcp_php": 45567600,
+        "unit_code": "LPC_OU-CSB_CRL-B002-L005",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 762.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "771 sqm Commercial-residential lot",
+        "tcp_php": 45720300,
+        "unit_code": "LPC_OU-CSB_CRL-B002-L002",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 771.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "812 sqm Commercial-residential lot",
+        "tcp_php": 48963600,
+        "unit_code": "LPC_OU-CSB_CRL-B002-L006",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 812.0,
+        "unit_type": "Commercial-residential lot"
+      },
+      {
+        "size": "890 sqm Commercial-residential lot",
+        "tcp_php": 52777000,
+        "unit_code": "LPC_OU-CSB_CRL-B002-L001",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 890.0,
+        "unit_type": "Commercial-residential lot"
+      }
+    ],
+    "notes": "Historical listing only; status and current prices must be confirmed with the property seller.",
+    "id": "casobe",
+    "availability": "Unverified — ask agent",
+    "viewing": "Request only — agent confirmation required",
+    "contact": {
+      "name": "Request agent contact",
+      "phone": null
+    },
+    "payment_terms": [
+      "Contact agent for current payment terms"
+    ],
+    "map_query": "Calatagan, Batangas Philippines CaSoBe",
+    "pricing_as_of": "2025-01-01",
+    "source": "LPC-Prices.xlsx"
+  },
+  {
+    "name": "The Nautilus",
+    "location": "CaSoBe, Batangas",
+    "type": "condominium",
+    "units": [
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002E",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002F",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002G",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002I",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002J",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002L",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002M",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002N",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002P",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.1 sqm Studio Unit",
+        "tcp_php": 10908030,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002Q",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.1,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.2 sqm Studio Unit",
+        "tcp_php": 10936660,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002D",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.2,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.3 sqm Studio Unit",
+        "tcp_php": 10965290,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002S",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.3,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "38.3 sqm Studio Unit",
+        "tcp_php": 10965290,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002T",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 38.3,
+        "unit_type": "Studio Unit"
+      },
+      {
+        "size": "63.1 sqm 1 Bedroom Unit",
+        "tcp_php": 17522870,
+        "unit_code": "LPC_OU-NAU_RESI-F002-02BB",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 63.1,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "63.4 sqm 1 Bedroom Unit",
+        "tcp_php": 18328940,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002Z",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 63.4,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "63.4 sqm 1 Bedroom Unit",
+        "tcp_php": 18512800,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002O",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 63.4,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "63.4 sqm 1 Bedroom Unit",
+        "tcp_php": 18512800,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002X",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 63.4,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "67.4 sqm 1 Bedroom Unit",
+        "tcp_php": 19680800,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002R",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 67.4,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "67.4 sqm 1 Bedroom Unit",
+        "tcp_php": 19680800,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002U",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 67.4,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "76.7 sqm 1 Bedroom Unit",
+        "tcp_php": 21736780,
+        "unit_code": "LPC_OU-NAU_RESI-F002-02AA",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 76.7,
+        "unit_type": "1 Bedroom Unit"
+      },
+      {
+        "size": "95.1 sqm 2 Bedroom Unit",
+        "tcp_php": 27769200,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002H",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 95.1,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "95.1 sqm 2 Bedroom Unit",
+        "tcp_php": 27769200,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002K",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 95.1,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "95.1 sqm 2 Bedroom Unit",
+        "tcp_php": 27902340,
+        "unit_code": "LPC_OU-NAU_RESI-F003-003H",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 95.1,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "95.1 sqm 2 Bedroom Unit",
+        "tcp_php": 27902340,
+        "unit_code": "LPC_OU-NAU_RESI-F003-003K",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 95.1,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "96.5 sqm 2 Bedroom Unit",
+        "tcp_php": 28178000,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002C",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 96.5,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "96.5 sqm 2 Bedroom Unit",
+        "tcp_php": 28313100,
+        "unit_code": "LPC_OU-NAU_RESI-F003-003C",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 96.5,
+        "unit_type": "2 Bedroom Unit"
+      },
+      {
+        "size": "123.4 sqm 2 Bedroom Loft Unit",
+        "tcp_php": 35847700,
+        "unit_code": "LPC_OU-NAU_RESI-GF00-001B",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 123.4,
+        "unit_type": "2 Bedroom Loft Unit"
+      },
+      {
+        "size": "124.6 sqm 2 Bedroom Loft Unit",
+        "tcp_php": 36196300,
+        "unit_code": "LPC_OU-NAU_RESI-GF00-001A",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 124.6,
+        "unit_type": "2 Bedroom Loft Unit"
+      },
+      {
+        "size": "124.6 sqm 2 Bedroom Loft Unit",
+        "tcp_php": 36196300,
+        "unit_code": "LPC_OU-NAU_RESI-GF00-001C",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 124.6,
+        "unit_type": "2 Bedroom Loft Unit"
+      },
+      {
+        "size": "138.2 sqm 3 Bedroom Unit",
+        "tcp_php": 45854760,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002B",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 138.2,
+        "unit_type": "3 Bedroom Unit"
+      },
+      {
+        "size": "138.2 sqm 3 Bedroom Unit",
+        "tcp_php": 46062060,
+        "unit_code": "LPC_OU-NAU_RESI-F003-003B",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 138.2,
+        "unit_type": "3 Bedroom Unit"
+      },
+      {
+        "size": "143.5 sqm 3 Bedroom Unit",
+        "tcp_php": 46795350,
+        "unit_code": "LPC_OU-NAU_RESI-F002-002A",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 143.5,
+        "unit_type": "3 Bedroom Unit"
+      },
+      {
+        "size": "143.5 sqm 3 Bedroom Unit",
+        "tcp_php": 47010600,
+        "unit_code": "LPC_OU-NAU_RESI-F003-003A",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 143.5,
+        "unit_type": "3 Bedroom Unit"
+      }
+    ],
+    "notes": "Historical listing only; status and current prices must be confirmed with the property seller.",
+    "id": "nautilus",
+    "availability": "Unverified — ask agent",
+    "viewing": "Request only — agent confirmation required",
+    "contact": {
+      "name": "Request agent contact",
+      "phone": null
+    },
+    "payment_terms": [
+      "Contact agent for current payment terms"
+    ],
+    "map_query": "CaSoBe, Batangas Philippines The Nautilus",
+    "pricing_as_of": "2025-01-01",
+    "source": "LPC-Prices.xlsx"
+  },
+  {
+    "name": "TRAT at Punta Fuego",
+    "location": "Nasugbu, Batangas",
+    "type": "condominium",
+    "units": [
+      {
+        "size": "60.25 sqm 1 Bedroom Unit A",
+        "tcp_php": 26633700,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009J-AS86",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.25,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.62 sqm 1 Bedroom Unit A",
+        "tcp_php": 26841308,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009O-AS91",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.62,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.62 sqm 1 Bedroom Unit A",
+        "tcp_php": 26841308,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011H-AS114",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.62,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.54 sqm 1 Bedroom Unit A",
+        "tcp_php": 26870830,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009R-AS94",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.54,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.54 sqm 1 Bedroom Unit A",
+        "tcp_php": 26870830,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011K-AS117",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.54,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.84 sqm 1 Bedroom Unit A",
+        "tcp_php": 27004096,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009P-AS92",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.84,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.84 sqm 1 Bedroom Unit A",
+        "tcp_php": 27004096,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011I-AS115",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.84,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.16 sqm 1 Bedroom Unit A",
+        "tcp_php": 27031216,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010F-AS100",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.16,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.35 sqm 1 Bedroom Unit A",
+        "tcp_php": 27156745,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010E-AS99",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.35,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.52 sqm 1 Bedroom Unit A",
+        "tcp_php": 27200452,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010I-AS103",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.52,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.54 sqm 1 Bedroom Unit A",
+        "tcp_php": 27318826,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010H-AS102",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.54,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.58 sqm 1 Bedroom Unit A",
+        "tcp_php": 27325586,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010L-AS106",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.58,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.84 sqm 1 Bedroom Unit A",
+        "tcp_php": 27338716,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010J-AS104",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.84,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.11 sqm 1 Bedroom Unit A",
+        "tcp_php": 27350338,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012C-AS120",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.11,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.1 sqm 1 Bedroom Unit A",
+        "tcp_php": 27393680,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009N-AS90",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.1,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.09 sqm 1 Bedroom Unit A",
+        "tcp_php": 27498954,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011J-AS116",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.09,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.1 sqm 1 Bedroom Unit A",
+        "tcp_php": 27503660,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009M-AS89",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.1,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.1 sqm 1 Bedroom Unit A",
+        "tcp_php": 27503660,
+        "unit_code": "LPC_OU-TRZ_RESI-F009-009Q-AS93",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.1,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.54 sqm 1 Bedroom Unit A",
+        "tcp_php": 27542824,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012H-AS125",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.54,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "60.84 sqm 1 Bedroom Unit A",
+        "tcp_php": 27679420,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012F-AS123",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 60.84,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.1 sqm 1 Bedroom Unit A",
+        "tcp_php": 27955800,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010K-AS105",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.1,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "61.1 sqm 1 Bedroom Unit A",
+        "tcp_php": 27955800,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012G-AS124",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 61.1,
+        "unit_type": "1 Bedroom Unit A"
+      },
+      {
+        "size": "90.57 sqm 2 Bedroom Unit AA",
+        "tcp_php": 40557112,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011D-AS110",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.57,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.46 sqm 2 Bedroom Unit AA",
+        "tcp_php": 40560612,
+        "unit_code": "LPC_OU-TRZ_RESI-F011-011C-AS109",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.46,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.4 sqm 2 Bedroom Unit AA",
+        "tcp_php": 40650400,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010D-AS98",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.4,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.33 sqm 2 Bedroom Unit AA",
+        "tcp_php": 40654087,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010B-AS96",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.33,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.48 sqm 2 Bedroom Unit AA",
+        "tcp_php": 40732720,
+        "unit_code": "LPC_OU-TRZ_RESI-F010-010C-AS97",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.48,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.41 sqm 2 Bedroom Unit AA",
+        "tcp_php": 41107148,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012D-AS121",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.41,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.6 sqm 2 Bedroom Unit AA",
+        "tcp_php": 41187742,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012E-AS122",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.6,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.15 sqm 2 Bedroom Unit A",
+        "tcp_php": 41759605,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012I-AS127",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.15,
+        "unit_type": "2 Bedroom Unit A"
+      },
+      {
+        "size": "90.15 sqm 2 Bedroom Unit AA",
+        "tcp_php": 41779875,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012B-AS119",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.15,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.21 sqm 2 Bedroom Unit AA",
+        "tcp_php": 41825275,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012A-AS118",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.21,
+        "unit_type": "2 Bedroom Unit AA"
+      },
+      {
+        "size": "90.6 sqm 2 Bedroom Unit AA",
+        "tcp_php": 42001095,
+        "unit_code": "LPC_OU-TRZ_RESI-F012-012H-AS126",
+        "status_as_listed": "UNSOLD",
+        "area_sqm": 90.6,
+        "unit_type": "2 Bedroom Unit AA"
+      }
+    ],
+    "notes": "Historical listing only; status and current prices must be confirmed with the property seller.",
+    "id": "trat",
+    "availability": "Unverified — ask agent",
+    "viewing": "Request only — agent confirmation required",
+    "contact": {
+      "name": "Request agent contact",
+      "phone": null
+    },
+    "payment_terms": [
+      "Contact agent for current payment terms"
+    ],
+    "map_query": "Nasugbu, Batangas Philippines TRAT at Punta Fuego",
+    "pricing_as_of": "2025-01-01",
+    "source": "LPC-Prices.xlsx"
+  }
+]
